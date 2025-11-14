@@ -1,0 +1,14 @@
+{
+    "name": "Mint.Gdk.Utilities.Runtime",
+    "rootNamespace": "Mint.Gdk.Utilities.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
